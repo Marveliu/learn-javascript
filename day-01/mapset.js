@@ -15,6 +15,6 @@ alert("has adam?:"+m.has('adam'));
 m.delete('liushangnan');
 alert("delete:"+m.toString());
 
-// Set 没有重复的key，单步存储value,
+// Set 没有重复的key，不存储value,
 var s = new Set();
 var s1 = new Set([1,2,3])
