@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>TEST</title>
+	<!-- <script src="chromeoob.js" type="text/javascript" charset="utf-8" async defer></script> -->
+	<script src="dom.js" type="text/javascript" charset="utf-8" async defer></script>
+</head>
+<body>
+	<dl id="drink-menu" style="border:solid 1px #ccc;padding:6px;">
+    <dt>摩卡</dt>
+    <dd>热摩卡咖啡</dd>
+    <dt>酸奶</dt>
+    <dd>北京老酸奶</dd>
+    <dt>果汁</dt>
+    <dd>鲜榨苹果汁</dd>
+
+    <!-- HTML结构 -->
+	<div id="test-div">
+	<div class="c-red">
+	    <p id="test-p">JavaScript</p>
+	    <p>Java</p>
+	  </div>
+	  <div class="c-red c-green">
+	    <p>Python</p>
+	    <p>Ruby</p>
+	    <p>Swift</p>
+	  </div>
+	  <div class="c-green">
+	    <p>Scheme</p>
+	    <p>Haskell</p>
+	  </div>
+	</div>
+
+<br>
+		<!-- HTML结构 -->
+	<p id="js">JavaScript</p>
+	<div id="list">
+	    <p id="java">Java</p>
+	    <p id="python">Python</p>
+	    <p id="scheme">Scheme</p>
+	</div>
+<br>
+
+	<p id="to-be-removed">to be removed</p>
+
+</dl>
+<br>
+
+<P class="">不支持HTML5的浏览器无法识别新的控件，会把它们当做type="text"来显示。支持HTML5的浏览器将获得格式化的字符串。例如，type="date"类型的input的value将保证是一个有效的YYYY-MM-DD格式的日期，或者空字符串。</P>
+
+	<form action="" id='test-form' onsubmit="return checkForm()">
+		<input type="text" id="email">
+		<label><input type="radio" name="weekday" id="monday" value="1"> Monday</label>
+		<input type="password" id="password" name="password">
+
+		<!-- h5 -->
+		<input type="date" value="2015-07-01">
+		<input type="datetime-local" value="2015-07-01T02:03:04">
+		<input type="color" value="#ff0000">
+		<!-- submit -->
+		<!-- <button type="button" onclick="doSubmitForm()">Submit</button> -->
+		<button type="submit">Submit</button>
+	</form>
+
+	<script>
+	function doSubmitForm() {
+	    var form = document.getElementById('test-form');
+	    // 可以在此修改form的input...
+	    // 提交form:
+	    form.submit();
+	}
+	</script>
+
+<!-- way2 -->
+	<script>
+	function checkForm() {
+	    var form = document.getElementById('test-form');
+	    var pwd = document.getElementById('password');
+	    // 可以在此修改form的input...
+	    // 继续下一步:
+	    pwd.value = toMD5(pwd.value);
+	    alert(pwd.value);
+	    // 返回true 浏览器会继续进行提交表单，反之则不会进行表单的提交
+	    return true;
+	}
+	</script>
+
+</body>
+</html>
