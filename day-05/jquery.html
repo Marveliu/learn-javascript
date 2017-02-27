@@ -1,0 +1,97 @@
+<html>
+<head>
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>
+    <script src='jquerydom.js'></script>
+    <script>
+        $(document).on('ready', function () {
+            $('#testForm).on('submit', function () {
+            	alert('submit!');
+            });
+        });
+    </script>
+</head>
+<body>
+
+    <!-- $是著名的jQuery符号。实际上，jQuery把所有功能全部封装在一个全局变量jQuery中，而$也是一个合法的变量名，它是变量jQuery的别名： -->
+ <table>
+
+	 <!-- HTML结构 -->
+	<div class="testing">
+	    <ul class="lang">
+	        <li class="lang-javascript">JavaScript</li>
+	        <li class="lang-python">Python</li>
+	        <li class="lang-lua">Lua</li>
+	    </ul>
+	</div>
+<br>
+    <tbody>
+        <tr>
+	        <p>hello</p>
+	        <p>java</p>
+	        <p>javascript</p>
+	     </tr>
+    </tbody>
+<br>
+    <div class="show">
+    	<!-- HTML结构 -->
+		<ul class="lang">
+		    <li class="js dy">JavaScript</li>
+		    <li class="dy">Python</li>
+		    <li id="swift">Swift</li>
+		    <li class="dy">Scheme</li>
+		    <li name="haskell">Haskell</li>
+		</ul>
+
+		<!-- HTML结构 -->
+		<ul id="test-ul">
+		    <li class="js">JavaScript</li>
+		    <li name="book">Java &amp; JavaScript</li>
+		</ul>
+
+    </div>
+<br>
+	<div id="test-div" name="Test" start="1">...</div>
+<br>
+	<form id="testForm">
+        ...
+    </form>
+</table>
+<script>
+	var j1 = $('#test-ul li.js');
+	var j2 = $('#test-ul li[name=book]');
+	j1.html('<span style="color: grey">JavaScript</span>');
+	j2.text('JavaScript & fuck');
+
+	$('ul.lang>li').css('background-color', '#ffd351').css('color', 'red').append("<li>after</li>").prepend("<li>before</li>");
+	// 注意，jQuery对象的所有方法都返回一个jQuery对象（可能是新的也可能是自身），这样我们可以进行链式调用，非常方便。
+	j2.hide(2000);
+
+	// dom的信息
+	// 浏览器可视窗口大小:
+	alert(
+		$(window).width()+ // 800
+		$(window).height()+ // 600
+
+		// HTML文档大小:
+		$(document).width()+ // 800
+		$(document).height() // 3500
+	)
+
+	var div = $('#test-div');
+	div.attr('data'); // undefined, 属性不存在
+	div.attr('name'); // 'Test'
+	div.attr('name', 'Hello'); // div的name属性变为'Hello'
+	div.removeAttr('name'); // 删除name属性
+	div.attr('name'); // undefined
+
+	// attr()和prop()对于属性checked处理有所不同
+	 var radio = $('#test-radio');
+	radio.attr('checked'); // 'checked'
+	radio.prop('checked'); // true
+	var radio = $('#test-radio');
+	radio.is(':checked'); // true
+
+	// 对于表单元素，jQuery对象统一提供val()方法获取和设置对应的value属性
+</script>
+</body>
+</html>

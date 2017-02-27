@@ -20,7 +20,7 @@
 
 
 // 增dom操作
-var p = document.getElementById('test-p');
+var p = .documentgetElementById('test-p');
 
 // 重复插入会被替换
 p.innerHTML = 'ABC'; 
