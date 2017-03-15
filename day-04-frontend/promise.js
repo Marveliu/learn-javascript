@@ -1,5 +1,6 @@
 
 var ajax = ajaxGet('http://...');
+
 ajax.ifSuccess(success)
     .ifFail(fail);
 
