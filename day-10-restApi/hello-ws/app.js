@@ -8,7 +8,7 @@ const wss = new WebSocketServer({
     port: 3000
 });
 
-
+// connection 创建
 wss.on('connection', function(ws) {
     console.log(`[SERVER] connection()`);
     ws.on('message', function(message) {
@@ -28,14 +28,16 @@ console.log('ws server started at port 3000...');
 // client test:
 
 let count = 0;
-// // 打开一个WebSocket:
+
+// 打开一个WebSocket:
 let ws = new WebSocket('ws://localhost:3000/ws/chat');
 
 ws.on('open', function() {
     console.log(`[CLIENT] open()`);
     ws.send('Hello!');
 });
-// // 响应onmessage事件:
+
+// 响应onmessage事件:
 ws.on('message', function(message) {
     console.log(`[CLIENT] Received: ${message}`);
     count++;

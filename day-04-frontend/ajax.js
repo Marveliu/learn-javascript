@@ -1,5 +1,5 @@
 	//ajax 方法 
-	function success(text) {
+	    function success(text) {
 		    var textarea = document.getElementById('test-response-text');
 		    textarea.value = text;
 		}
@@ -17,6 +17,12 @@
 
 		// 最后调用send()方法才真正发送请求。GET请求不需要参数，POST请求需要把body部分以字符串或者FormData对象传进去。
 		
+		// 发送请求:
+		// 跨越请求失败
+		request.open('GET', 'http://api.money.126.net/data/feed/0000001,1399001?callback=refreshPrice');
+		request.send();
+		alert('请求已发送，请等待响应...');
+
 		request.onreadystatechange = function () { // 状态发生变化时，函数被回调
 		    if (request.readyState === 4) { // 成功完成
 		        // 判断响应结果:
@@ -32,10 +38,7 @@
 		    }
 		}
 
-		// 发送请求:
-		request.open('GET', '/api/categories');
-		request.send();
-		alert('请求已发送，请等待响应...');
+
 
 		// 安全策略，同源策略
 		// 

@@ -37,3 +37,7 @@ Nodejs
 ## 参考
 1. [廖雪峰的javascript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 2. [alsotong](https://github.com/alsotang/node-lessons/)
+
+## 申明
+1. 个人学习，不做任何商业用途
+2. 侵权秒删
