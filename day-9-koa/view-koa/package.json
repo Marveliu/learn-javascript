@@ -4,7 +4,7 @@
     "description": "koa 2 example with nunjucks as view",
     "main": "app.js",
     "scripts": {
-        "start": "node --use_strict app.js"
+        "start": "node app.js"
     },
     "keywords": [
         "koa",
