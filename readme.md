@@ -29,6 +29,15 @@ Nodejs
     - begin with 'hello world'
     - blog
     - 爬虫
+# 4. NodejsProject
+
+自己没事写着玩的
+
+1. 从笔趣阁爬小说
+
+    - 小说爬的顺序有问题，部分连接无法抓取数据
+    - 导入md文件之后，转成pdf看起来还是很有问题
+
 
 
 
