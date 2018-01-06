@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>该示例主要对Vue实例做一个大致的介绍</title>
+    <style>
+    input {
+        width: 200px;
+    }
+    </style>
+</head>
+
+<body>
+    <h2 id="example">该示例主要对Vue.js实例做一个大致的介绍</h2>
+    <script type="text/javascript" src="lib/vue.js"></script>
+    <script type="text/javascript">
+    // 1、每个 Vue 实例都会代理其 data 对象里所有的属性
+    var data1 = {
+        a: 1
+    };
+    var vm1 = new Vue({
+        data: data1
+    });
+    console.log(vm1.a === data1.a); // -> true
+    // 设置属性也会影响到原始数据
+    vm1.a = 2;
+    console.log(data1.a); // -> 2
+    // ... 反之亦然
+
+    //2、除了 data 属性， Vue 实例暴露了一些有用的实例属性与方法。
+    var data2 = {
+        a: 1
+    };
+    var vm2 = new Vue({
+        el: '#example',
+        data: data2
+    });
+    console.log(vm2.$data === data2); // -> true
+    console.log(vm2.$el === document.getElementById('example')); // -> true
+    // $watch 是一个实例方法
+    vm2.$watch('a', function(newVal, oldVal) {
+        // 这个回调将在 `vm.a`  改变后调用
+    });
+
+    // 3、实例生命周期
+    var vm3 = new Vue({
+        data: {
+            a: 1
+        },
+        created: function() {
+            // this 指向vm实例
+            console.log('a is:' + this.a);
+        }
+    });
+    </script>
+</body>
+
+</html>

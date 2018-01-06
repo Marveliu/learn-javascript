@@ -4,7 +4,7 @@ var superagent = require('superagent');
 
 var app = express();
 
-app.get('/', function (req, res, next) {
+    app.get('/', function (req, res, next) {
   superagent.get('https://cnodejs.org/')
     .end(function (err, sres) {
       if (err) {

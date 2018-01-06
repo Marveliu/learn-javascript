@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c8b636b-0ede-454e-8df3-fa17bb4453c5" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/learn-vue/tutorial/index.html" />
+      <change beforePath="$PROJECT_DIR$/Demo/Demo1-爬虫/app.js" afterPath="$PROJECT_DIR$/Demo/Demo1-爬虫/app.js" />
+      <change beforePath="$PROJECT_DIR$/day-01-datatype/array.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-01-datatype/control.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-01-datatype/datatype.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-01-datatype/iterable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-01-datatype/mapset.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-01-datatype/object.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-01-datatype/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-01-datatype/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-02-function/advancefunction.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-02-function/arrowfunction.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-02-function/closure.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-02-function/fuctionway.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-02-function/function.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-02-function/generator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-02-function/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-02-function/variablerange" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-02-function/variablerange.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-03-oob/newclass.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-03-oob/oob.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-04-frontend/ajax.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-04-frontend/ajax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-04-frontend/ajax2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-04-frontend/canvas.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-04-frontend/chromeoob.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-04-frontend/dom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-04-frontend/form.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-04-frontend/promise.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-04-frontend/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-04-frontend/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-05-jquery/animation.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-05-jquery/event.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-05-jquery/jquery.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-05-jquery/jquerybasicselect.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-05-jquery/jquerydom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-05-jquery/jqueryfunction.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-06-node/node.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/crypto/crypto.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/hello/fs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/hello/hello.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/hello/in.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/hello/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/hello/out.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/hello/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/http/file-server.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/http/http.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/stream/output1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/stream/output2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/stream/sample.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-07-modules/stream/stream.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-10-express/hello express/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-10-express/hello express2/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-10-express/hello express2/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-10-express/hello express2/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-10-express/learn-express.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-10-express/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-10-express/source analysis/app-use.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/hello-ws/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/hello-ws/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/controller.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/controllers/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/controllers/signin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/nginx-sample.conf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static-files.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/images/0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/images/1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/images/2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/images/3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/images/4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/images/5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/images/6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/images/7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/images/8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/images/9.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/js/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/static/js/vue.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/templating.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/views/base.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/views/room.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-11-websockets/ws-with-koa/views/signin.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static-files.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/js/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/form-vue/static/js/vue.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/controller.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/controllers/api.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/rest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/saved-docs/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static-files.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/js/excel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/js/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/mini-excel/static/js/vue.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/controller.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/controllers/api.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/debug.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/rest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static-files.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/js/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-12-vue/vue-todo-2/static/js/vue.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-13-debug/common-test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-13-debug/data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-13-debug/hello.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-13-debug/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-13-debug/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-13-debug/test/hello-test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-14-async/async_demo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-14-async/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-hello/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-hello/controller.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-hello/controllers/api.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-hello/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/controller.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/controllers/api.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/controllers/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/products.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/rest.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static-files.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/images/icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/js/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/static/js/vue.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/templating.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/views/base.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-8-api/rest-koa/views/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/hello-sequelize/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/hello-sequelize/config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/hello-sequelize/init.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/hello-sequelize/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/hello-test/common-test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/hello-test/hello.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/hello-test/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/hello-test/test/hello-test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/history.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/koa/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/koa/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/koa2/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/koa2/controller.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/koa2/controllers/hello.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/koa2/controllers/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/koa2/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/model-sequelize/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/model-sequelize/config-default.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/model-sequelize/config-test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/model-sequelize/config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/model-sequelize/db.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/model-sequelize/init-db.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/model-sequelize/init.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/model-sequelize/model.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/model-sequelize/models/Pet.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/model-sequelize/models/User.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/model-sequelize/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/use-nunjucks/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/use-nunjucks/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/use-nunjucks/views/base.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/use-nunjucks/views/extend.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/use-nunjucks/views/hello.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/controller.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/controllers/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/controllers/signin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static-files.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/static/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/templating.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/views/base.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/views/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/views/signin-failed.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/day-9-koa/view-koa/views/signin-ok.html" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo/Demo1-爬虫/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-js/day-01-datatype/array.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn-vue/tutorial/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Demo/Demo1-爬虫/app.js" />
+        <option value="$PROJECT_DIR$/learn-vue/tutorial/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Demo/Demo1-爬虫/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Demo/Demo2-爬虫-图片/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Project/P1-小说/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Project/P1-淘宝/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-10-express/hello express/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-10-express/hello express2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-11-websockets/hello-ws/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-11-websockets/ws-with-koa/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-12-vue/form-vue/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-13-debug/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-14-async/async_demo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-8-api/rest-hello/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-8-api/rest-koa/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-9-koa/hello-sequelize/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-9-koa/use-nunjucks/node_modules" />
+    <handled-path value="$PROJECT_DIR$/learn-js/day-9-koa/view-koa/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="width" value="1346" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learn-javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="com.chrisrm.idea.config" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/learn-javascript/learn-vue/tutorial/index.html" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c8b636b-0ede-454e-8df3-fa17bb4453c5" name="Default" comment="" />
+      <created>1515164869175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515164869175</updated>
+      <workItem from="1515164873913" duration="356000" />
+      <workItem from="1515165254907" duration="63000" />
+      <workItem from="1515165341850" duration="1371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1790000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17336309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/learn-js/day-9-koa/hello-sequelize/node_modules/terraformer/test.js" />
+        <option value="$PROJECT_DIR$/learn-js/day-9-koa/hello-sequelize/node_modules/terraformer-wkt-parser/test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Demo/Demo1-爬虫/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Demo1-爬虫/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/Demo1-爬虫/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-js/day-01-datatype/array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-vue/tutorial/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
