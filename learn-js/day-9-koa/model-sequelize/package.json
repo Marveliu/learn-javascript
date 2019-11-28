@@ -18,6 +18,6 @@
     },
     "dependencies": {
         "sequelize": "5.21.2",
-        "mysql": "2.11.1"
+        "mysql": "2.17.1"
     }
 }
